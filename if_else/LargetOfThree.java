@@ -1,6 +1,5 @@
 package if_else;
 
-import java.security.DrbgParameters.NextBytes;
 import java.util.Scanner;
 
 public class LargetOfThree {
